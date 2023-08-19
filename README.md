@@ -1,6 +1,6 @@
 # GPX TimeShift
 
-GPX TimeShift is a Python script that allows you to modify the timestamps in GPX (GPS Exchange Format) files. It provides a simple way to shift the time values in the GPX file, either forward or backward, by a specified duration.
+GPX TimeShift is a Python script that allows you to modify the timestamps in GPX (GPS Exchange Format) files. It provides a simple way to shift the time values in the GPX file, either forward or backward, by a specified duration. **But I only adapted for [OSMTracker](https://f-droid.org/packages/net.osmtracker/) and [GPS Logger](https://play.google.com/store/apps/details?id=eu.basicairdata.graziano.gpslogger)**.
 
 ## Motivation
 
